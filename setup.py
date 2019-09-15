@@ -18,7 +18,7 @@ setuptools.setup(
 
  
     #Any link to reach this module, if you have any webpage or github profile
-    url="https://github.com/Pushkar-Singh-14/",
+    url="https://github.com/Santhu195/",
     packages=setuptools.find_packages(),
  
     #classifiers like program is suitable for python3, just leave as it is.
