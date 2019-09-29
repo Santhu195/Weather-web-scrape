@@ -1,2 +1,4 @@
 # Weather-web-scrape
-scraping weather.com
+scraping data form web and displaying the needed resuls
+
+
